@@ -1,0 +1,13 @@
+Window "Test Window" (500,500) FlowLayout <window1>
+	Label "Hello, World"
+	End
+
+	Button "Test Button"
+	End
+
+	Label "Just Another Label"
+	End
+
+	Button "Click!"
+	End
+End
